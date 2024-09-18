@@ -1,1 +1,1 @@
-# pixi-class
+# pixi-demo
